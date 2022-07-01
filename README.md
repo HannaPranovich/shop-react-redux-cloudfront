@@ -1,3 +1,7 @@
+## Task 2
+ - CloudFront website https://d255zfx95wi7mc.cloudfront.net/
+ - S3-website shows http://shop-rs-app.s3-website-eu-west-1.amazonaws.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
